@@ -80,7 +80,7 @@ public class SampleAtmosphereApplication {
 	}
 
 	public static void main(String[] args) throws Exception {
-	System.out.println("Hello Jenkins");
+	System.out.println("Hello Jenkins Another");
 		SpringApplication.run(SampleAtmosphereApplication.class, args);
 	}
 
